@@ -1,0 +1,15 @@
+{
+  "name": "rakesh-ssh",
+  "version": "0.1.0",
+  "author": "Rakesh Singh <rksingh.aeie.2013@gmail.com>",
+  "summary": "This module is to manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rakeysh17/puppet.git",
+  "project_page": "https://github.com/rakeysh17/puppet",
+  "issues_url": "https://github.com/rakeysh17/puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
